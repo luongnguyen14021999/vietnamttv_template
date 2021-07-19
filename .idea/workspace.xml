@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a5a0e4a-0c53-4632-a50f-1bbe9083566e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/banner/homepage1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/banner/homepage2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/banner/homepage3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/project/project1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/project/project2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/project/project3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/project/project4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/project/project5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/project/project6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/service/service1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/service/service2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/service/service3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/service/service4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/service/service5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/service/service6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/img_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/img_22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/img_33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/project_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/project_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/project_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/project_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/project_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project/project_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service/img_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service/img_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service/img_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service/img_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service/img_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service/img_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6a5a0e4a-0c53-4632-a50f-1bbe9083566e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +81,7 @@
       <workItem from="1626602166151" duration="600000" />
       <workItem from="1626704153074" duration="5680000" />
       <workItem from="1626709885899" duration="209000" />
-      <workItem from="1626710111650" duration="1349000" />
+      <workItem from="1626710111650" duration="1564000" />
     </task>
     <servers />
   </component>
