@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a5a0e4a-0c53-4632-a50f-1bbe9083566e" name="Default Changelist" comment="" />
+    <list default="true" id="6a5a0e4a-0c53-4632-a50f-1bbe9083566e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner/banner_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner/banner_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner/banner_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,21 +43,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/banner" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/service" />
       <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/images/service" />
       <recent name="$PROJECT_DIR$/assets/images/project" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/banner" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -81,7 +89,9 @@
       <workItem from="1626602166151" duration="600000" />
       <workItem from="1626704153074" duration="5680000" />
       <workItem from="1626709885899" duration="209000" />
-      <workItem from="1626710111650" duration="1564000" />
+      <workItem from="1626710111650" duration="3703000" />
+      <workItem from="1626750525754" duration="80000" />
+      <workItem from="1626750671191" duration="1174000" />
     </task>
     <servers />
   </component>
@@ -89,10 +99,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626708774779">
+    <state x="707" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626750730860">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
-    <state x="707" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1626708774779" />
+    <state x="707" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1626750730860" />
     <state x="789" y="359" key="SettingsEditor" timestamp="1626704827341">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
