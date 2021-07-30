@@ -18,18 +18,20 @@
 	content: '';
 	width: 50%;
 	height:100%;
-	background:white;
+	background:#ffa500;
 	z-index: -1;
+	margin-left: -250px;
 }
 .header:before {
 	position: absolute;
     top: 0;
-    left: 0%;
+    left: 50%;
     content: '';
     width: 60px;
-    height: 10%;
+    height: 100%;
     background: #ffa500;
     z-index: -1;
+    margin-left: -281px;
     transform: skew(-23deg);
 }
 .menu-bg {
@@ -45,11 +47,11 @@
 	padding: 24px 16px;
 }
 .menu-bg .logo a {
-	padding: 16px 0;
+	padding: 15px 0;
 }
 .logo a {
 	display: inline-block;
-	padding: 10px;
+	padding: 32px 0;
 }
 .menu {
 	border: none;

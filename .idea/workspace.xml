@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5a0e4a-0c53-4632-a50f-1bbe9083566e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team/core1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team/core2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team/core3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team/core4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/banner_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/banner_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/banner_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,21 +47,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/team" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/team" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/images/banner" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/team" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/service" />
-      <recent name="$PROJECT_DIR$/assets/images/project" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/banner" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -91,7 +98,22 @@
       <workItem from="1626709885899" duration="209000" />
       <workItem from="1626710111650" duration="3703000" />
       <workItem from="1626750525754" duration="80000" />
-      <workItem from="1626750671191" duration="1174000" />
+      <workItem from="1626750671191" duration="2283000" />
+      <workItem from="1626762413893" duration="368000" />
+      <workItem from="1626763132634" duration="150000" />
+      <workItem from="1626862109209" duration="386000" />
+      <workItem from="1626954412004" duration="74000" />
+      <workItem from="1627652236356" duration="455000" />
+      <workItem from="1627652862287" duration="64000" />
+      <workItem from="1627653116387" duration="65000" />
+      <workItem from="1627653772823" duration="100000" />
+      <workItem from="1627654007014" duration="25000" />
+      <workItem from="1627654047019" duration="434000" />
+      <workItem from="1627654942705" duration="309000" />
+      <workItem from="1627655411927" duration="1522000" />
+      <workItem from="1627657375117" duration="939000" />
+      <workItem from="1627658488949" duration="1333000" />
+      <workItem from="1627660082692" duration="769000" />
     </task>
     <servers />
   </component>
@@ -99,17 +121,20 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626750730860">
+    <state x="707" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627659788261">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
-    <state x="707" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1626750730860" />
-    <state x="789" y="359" key="SettingsEditor" timestamp="1626704827341">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="398" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.829@0.23.1440.829" timestamp="1626862156817" />
+    <state x="707" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1627659788261" />
+    <state x="789" y="363" key="SettingsEditor" timestamp="1627657431542">
+      <screen x="0" y="23" width="2560" height="1364" />
     </state>
     <state x="789" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1626704827341" />
-    <state x="1056" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1625457469784">
+    <state x="789" y="363" key="SettingsEditor/0.23.2560.1364@0.23.2560.1364" timestamp="1627657431542" />
+    <state x="1056" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1627652236195">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
-    <state x="1056" y="323" key="com.intellij.ide.util.TipDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1625457469784" />
+    <state x="594" y="205" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1626862110377" />
+    <state x="1056" y="323" key="com.intellij.ide.util.TipDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1627652236195" />
   </component>
 </project>
