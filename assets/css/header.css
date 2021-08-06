@@ -11,6 +11,7 @@
 	-webkit-transition: all 0.4s ease-out;
 	transition: all 0.4s ease-out;
 }
+
 .header:after {
 	position: absolute;
 	top: 0;
@@ -22,6 +23,7 @@
 	z-index: -1;
 	margin-left: -250px;
 }
+
 .header:before {
 	position: absolute;
     top: 0;
@@ -34,24 +36,29 @@
     margin-left: -281px;
     transform: skew(-23deg);
 }
+
 .menu-bg {
 	-webkit-transition: all 0.3s ease-out;
 	transition: all 0.3s ease-out;
 	background: #fff;
 	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
 }
+
 .navigation{
 	width: 100%;
 }
+
 .menu-bg .navigation > ul > li > a {
 	padding: 24px 16px;
 }
+
 .menu-bg .logo a {
 	padding: 15px 0;
 }
+
 .logo a {
 	display: inline-block;
-	padding: 32px 0;
+	padding: 30px 0;
 }
 .menu {
 	border: none;
@@ -84,7 +91,7 @@
 	position: relative;
 }
 .navigation ul li a {
-	font-size: 12px;
+	font-size: 25px;
 	font-weight: 600;
 	text-decoration: none;
 	text-transform: uppercase;
